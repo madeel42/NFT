@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 575px){
+.ant-col-offset-5  {
+    flex: 0 0 100%;
+    max-width: 0% !important;
+}
+}

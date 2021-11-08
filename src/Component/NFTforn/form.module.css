@@ -1,0 +1,36 @@
+.formNavDiv{
+    text-align: center;
+    background: rgb(0, 158, 127);
+    padding: 14px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    /* background-color: gainsboro;
+    width: 100%;
+    height: auto;
+    padding-top: 11px;
+    padding-bottom: 8px; */
+}
+.heading{
+    font-weight: 700;
+    font-size: 200%!important;
+    margin-top: 0px;
+    padding-bottom: 53px;
+    color: #fff;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    /* text-align: center;
+    font-weight: 700;
+    font-size: 200%; */
+}
+.formWholeDiv{
+    background-color: rgb(443, 294, 232);;
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
